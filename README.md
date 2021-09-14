@@ -2,11 +2,11 @@
 
 House Prices Prediction with Machine Learning Algorithms
 
-#Business Problem
+# Business Problem
 
 It is desired to carry out a machine learning project regarding the prices of different types of houses by using the dataset of each house's features and house prices.
 
-#Dataset Story
+# Dataset Story
 
 **This dataset of residential homes in Lowa, Ames contains 79 explanatory variables.**
 
@@ -16,7 +16,7 @@ It is desired to carry out a machine learning project regarding the prices of di
 
 **House prices are left blank in the test dataset and you are expected to estimate these values.**
 
-#Variables
+# Variables
 
 **Train dataset consists of 1460 observations and 81 variables, and Test dataset consists of 1459 observation units.**
 
@@ -28,6 +28,6 @@ It is desired to carry out a machine learning project regarding the prices of di
 
 https://docs.google.com/spreadsheets/d/1k2mj1zjCDkf60YOLArAI8XfrkjMa5sxbRQNZHBe1xC8/edit#gid=1166040824
 
-**MISSION**
+# MISSION
 
 Carrying out a machine learning project that predicts house prices with minimum error on the data set we have.
