@@ -1,10 +1,10 @@
 # House_Price-Data_Prep-ML-PCA
 
-House Prices Prediction with Machine Learning Algorithms
+#House Prices Prediction with Machine Learning Algorithms
 
 # Business Problem
 
-It is desired to carry out a machine learning project regarding the prices of different types of houses by using the dataset of each house's features and house prices.
+**It is desired to carry out a machine learning project regarding the prices of different types of houses by using the dataset of each house's features and house prices.**
 
 # Dataset Story
 
@@ -30,4 +30,4 @@ https://docs.google.com/spreadsheets/d/1k2mj1zjCDkf60YOLArAI8XfrkjMa5sxbRQNZHBe1
 
 # MISSION
 
-Carrying out a machine learning project that predicts house prices with minimum error on the data set we have.
+**Carrying out a machine learning project that predicts house prices with minimum error on the data set we have.**
